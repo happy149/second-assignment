@@ -1,0 +1,9 @@
+body{ 
+    font-family: 'Noto Sans SC', sans-serif;
+}
+.name{
+    color: rgb(132, 202, 132);
+}
+.half-width{
+    width: 50%;
+}
